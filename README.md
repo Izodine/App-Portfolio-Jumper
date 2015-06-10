@@ -1,4 +1,4 @@
-# App-Portfolip-Jumper
+# App-Portfolio-Jumper
 Nanodegree project 0
 
 First project for Android NanoDegree course offered by Udacity. Basic UI and Click Events that show a Toast message.
